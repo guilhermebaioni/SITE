@@ -1,0 +1,79 @@
+.corpo{
+    background-color: magenta;
+}
+
+#logo{
+    width: 50px;
+    height: 50px;
+}
+
+
+#cabecalho{
+    font-size: 30px;
+    background-color: magenta;
+    width: 260px;
+    border: solid black 2px;
+    border-radius: 5%;
+    text-align: center;
+
+}
+
+.config{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    
+}
+
+#psobre{
+    text-align: center;
+    font-size: 30px;
+}
+
+#corposobre{
+    background: url(breaking_bad_movie_amc_ringer-0.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+    
+}
+
+#contato{
+    text-align: center;
+    border: solid black 2px;
+    width: 500px;
+    font-size: 20px;
+}
+
+.botao{
+    background-color: black; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin-left: 1095px;
+    margin-top: 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#corpoenvio{
+    background-color: black;
+    
+}
+
+#penviado{
+    
+    font-size: 200px;
+    font-style: italic;
+    color: magenta;
+    text-align: center;
+    margin-top: 250px;
+}
